@@ -1,4 +1,9 @@
 {
+  "compilerOptions": {
+    "types": ["@chakra-ui/react"],
+    "skipLibCheck": true
+  },
+
   "files": [],
   "references": [
     { "path": "./tsconfig.app.json" },
